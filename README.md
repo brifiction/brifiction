@@ -15,6 +15,7 @@ Below are the development technologies and services, that I had worked with and 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
     
