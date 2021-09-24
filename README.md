@@ -33,6 +33,7 @@ Below are the development technologies and services, that I had worked with and 
 
 <p>
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-2088FF?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-008bcf?style=for-the-badge&logo=digitalocean&logoColor=white" />
 </p>
 
