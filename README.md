@@ -1,12 +1,12 @@
 # Greetings! :wave:
 
 <p align="center">
-My name is Brian Ng, and I am a PHP developer. I currently specialize in <a href="https://laravel.com/" target="_blank">Laravel</a> and <a href="https://vuejs.org/" target="_blank">Vue</a>.
+My name is Brian Ng, and I am a PHP developer. Also, I work with front-end technology stacks, building client-side applications.
 </p>
 
 ## Technologies
 
-Below are the development technologies and services, that I had worked with and currently use:
+Below are the technologies (and cloud hosting services) that I work with:
 
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8892be?style=for-the-badge&logo=php&logoColor=white" />
@@ -17,6 +17,10 @@ Below are the development technologies and services, that I had worked with and 
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<p>
+  <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-000000?style=for-the-badge&logo=serverless&logoColor=fd5750" />
 </p>
     
 <p>
@@ -33,7 +37,7 @@ Below are the development technologies and services, that I had worked with and 
 
 <p>
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-2088FF?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-008bcf?style=for-the-badge&logo=digitalocean&logoColor=white" />
 </p>
 
@@ -45,7 +49,7 @@ Below are the development technologies and services, that I had worked with and 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</p>  
+</p>
 
 <p>
   <img alt="MSSQL" src="https://img.shields.io/badge/-MSSQL-2088FF?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
@@ -56,7 +60,7 @@ Below are the development technologies and services, that I had worked with and 
 
 ## Website
 
-Check out my main project that I'm working on, Entwurfhaus. 
+Check out my main project that I'm working on, Entwurfhaus.
 
 The primary goal is to provide numerous open-source projects for developers.
 
@@ -77,14 +81,9 @@ My open-source projects are on GitHub. You'll mostly see development projects, s
 <a href="https://github.com/brifiction/laravel-boilerplate">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=brifiction&show_owner=true&repo=laravel-boilerplate&theme=nord" />
-</a>    
+</a>
 
-<a href="https://github.com/brifiction/frontend-boilerplate">
+<a href="https://github.com/entwurfhaus/serverless-express-typescript-boilerplate ">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=brifiction&show_owner=true&repo=frontend-boilerplate&theme=nord" />
-</a>    
-
-<a href="https://github.com/brifiction/entwurfhaus-ghost-theme">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=brifiction&show_owner=true&repo=entwurfhaus-ghost-theme&theme=nord" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=serverless-express-typescript-boilerplate&theme=nord" />
 </a>
