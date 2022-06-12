@@ -49,6 +49,7 @@ Below are the technologies (and cloud hosting services) that I work with:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-0ea4e9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 <p>
