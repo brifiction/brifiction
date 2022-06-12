@@ -10,13 +10,13 @@ Below are the technologies (and cloud hosting services) that I work with:
 
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8892be?style=for-the-badge&logo=php&logoColor=white" />
+    <!-- <img alt=".Net" src="https://img.shields.io/badge/-.Net-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" /> -->
 </p>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <p>
@@ -25,6 +25,10 @@ Below are the technologies (and cloud hosting services) that I work with:
     
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<p>
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="YARN" src="https://img.shields.io/badge/-YARN-2188b6?style=for-the-badge&logo=yarn&logoColor=white" />
 </p>
