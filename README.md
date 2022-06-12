@@ -106,3 +106,4 @@ I have a couple of demo projects:
 
 1. <a href="https://thehat.brianngchongeu.com/" target="_blank"> The Hat</a> - Pick a name, out of the Hat.
 2. <a href="https://rnp.brianngchongeu.com/" target="_blank"> Random Number Picker</a> - Pick a random number, from 1 to 100 (max).
+3. <a href="https://github.com/brifiction/sst-demo" target="_blank"> SST Demo</a> - This is a collection of various serverless-stack demos, to showcase useful use-cases in building most common forms of CloudFormation.
