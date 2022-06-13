@@ -4,6 +4,12 @@
 My name is Brian Ng, and I am a PHP developer. Also, I work with front-end technology stacks, building client-side applications.
 </p>
 
+## Social
+
+<p>
+<a href="https://www.linkedin.com/in/brianngchongeu/" target="_blank">  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 ## Technologies
 
 Below are the technologies (and cloud hosting services) that I work with:
@@ -63,7 +69,7 @@ Below are the technologies (and cloud hosting services) that I work with:
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-## Website
+## Personal Projects
 
 Check out my main project that I'm working on, Entwurfhaus.
 
@@ -77,28 +83,32 @@ My open-source projects are on GitHub. You'll mostly see development projects, s
 
 > Keep an eye out for private repositories turning public, that usually shows that there is a newly released project! :rocket:
 
+<p>
 <a href="https://github.com/brifiction">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brifiction&count_private=true&show_icons=true&theme=nord" alt="Brifiction's github stats" />
 </a>
-
-## Featured projects
+</p>
 
 These are some featured open-source projects I've made, take a look:
 
+<p>
 <a href="https://github.com/entwurfhaus/serverless-express-typescript-boilerplate ">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=serverless-express-typescript-boilerplate&theme=nord" />
 </a>
-
+</p>
+<p>
 <a href="https://github.com/entwurfhaus/vite-vanilla-ts-module">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=vite-vanilla-ts-module&theme=nord" />
 </a>
-
+</p>
+<p>
 <a href="https://github.com/brifiction/laravel-boilerplate">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=brifiction&show_owner=true&repo=laravel-boilerplate&theme=nord" />
 </a>
+</p>
 
 ## Demo projects
 
