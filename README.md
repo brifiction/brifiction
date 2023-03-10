@@ -1,13 +1,22 @@
 # Greetings! :wave:
 
 <p align="center">
-My name is Brian Ng, and I am a PHP developer. Also, I work with front-end technology stacks, building client-side applications.
+My name is Brian Ng, and I am a full-stack developer.
+</p>
+
+<p align="center">
+This means that I build with both back-end & front-end technologies, always learning new web technologies through practice.
+</p>
+
+<p align="center">
+With these pursuits, I strongly yearn for a "code less, more fun" / "code less, do more" software development lifestyle, and an advocate of <b>Linus' Law</b>.
 </p>
 
 ## Social
 
 <p>
 <a href="https://www.linkedin.com/in/brianngchongeu/" target="_blank">  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://dev.to/brifiction" target="_blank"> <img alt="DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
 ## Technologies
@@ -17,6 +26,10 @@ Below are the technologies (and cloud hosting services) that I work with:
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8892be?style=for-the-badge&logo=php&logoColor=white" />
     <!-- <img alt=".Net" src="https://img.shields.io/badge/-.Net-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" /> -->
+</p>
+
+<p>
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <p>
@@ -31,24 +44,25 @@ Below are the technologies (and cloud hosting services) that I work with:
     
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<p>
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="YARN" src="https://img.shields.io/badge/-YARN-2188b6?style=for-the-badge&logo=yarn&logoColor=white" />
 </p>
   
 <p>
+<img alt="Nx" src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" />
+</p>
+
+<p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img alt="JetBrains TeamCity" src="https://img.shields.io/badge/-JetBrains_TeamCity-27282c?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img alt="CircleCI" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
 </p>
 
 <p>
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-2088FF?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-008bcf?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <p>  
@@ -67,6 +81,10 @@ Below are the technologies (and cloud hosting services) that I work with:
   <img alt="MySQL" src="https://img.shields.io/badge/-MySql-13aa52?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-007bff?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+<p>
+<img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ## Personal Projects
