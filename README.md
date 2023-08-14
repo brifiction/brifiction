@@ -1,11 +1,7 @@
 # Greetings! :wave:
 
 <p align="center">
-My name is Brian Ng, and I am a full-stack developer.
-</p>
-
-<p align="center">
-This means that I build with both back-end & front-end technologies, always learning new web technologies through practice.
+My name is Brian Ng, and I am a Senior Software Engineer.
 </p>
 
 <p align="center">
@@ -100,11 +96,13 @@ My open-source projects are on GitHub. You'll mostly see development projects, s
 
 > Keep an eye out for private repositories turning public, that usually shows that there is a newly released project! :rocket:
 
+<!--
 <p>
 <a href="https://github.com/brifiction">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brifiction&count_private=true&show_icons=true&theme=nord" alt="Brifiction's github stats" />
 </a>
 </p>
+-->
 
 These are some featured open-source projects I've made, take a look:
 
