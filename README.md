@@ -41,6 +41,7 @@ Below are the technologies (and cloud hosting services) that I work with:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="YARN" src="https://img.shields.io/badge/-YARN-2188b6?style=for-the-badge&logo=yarn&logoColor=white" />
+  <img alt="PNPM" src="https://img.shields.io/badge/-PNPM-e6a700?style=for-the-badge&logo=pnpm&logoColor=white" />
 </p>
   
 <p>
