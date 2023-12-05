@@ -97,32 +97,21 @@ My open-source projects are on GitHub. You'll mostly see development projects, s
 
 > Keep an eye out for private repositories turning public, that usually shows that there is a newly released project! :rocket:
 
-<!--
-<p>
-<a href="https://github.com/brifiction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brifiction&count_private=true&show_icons=true&theme=nord" alt="Brifiction's github stats" />
-</a>
-</p>
--->
-
 These are some featured open-source projects I've made, take a look:
 
 <p>
 <a href="https://github.com/entwurfhaus/serverless-express-typescript-boilerplate ">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=serverless-express-typescript-boilerplate&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=serverless-express-typescript-boilerplate&theme=nord" />
 </a>
 </p>
 <p>
-<a href="https://github.com/entwurfhaus/vite-vanilla-ts-module">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=vite-vanilla-ts-module&theme=nord" />
+<a href="https://github.com/entwurfhaus/vite-vanilla-ts-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=vite-vanilla-ts-template&theme=nord" />
 </a>
 </p>
 <p>
 <a href="https://github.com/brifiction/laravel-boilerplate">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=brifiction&show_owner=true&repo=laravel-boilerplate&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brifiction&show_owner=true&repo=laravel-boilerplate&theme=nord" />
 </a>
 </p>
 
@@ -132,4 +121,3 @@ I have a couple of demo projects:
 
 1. <a href="https://thehat.brianngchongeu.com/" target="_blank"> The Hat</a> - Pick a name, out of the Hat.
 2. <a href="https://rnp.brianngchongeu.com/" target="_blank"> Random Number Picker</a> - Pick a random number, from 1 to 100 (max).
-3. <a href="https://github.com/brifiction/sst-demo" target="_blank"> SST Demo</a> - This is a collection of various serverless-stack demos, to showcase useful use-cases in building most common forms of CloudFormation.
