@@ -93,27 +93,36 @@ The primary goal is to provide numerous open-source projects for developers.
 
 ## GitHub
 
-My open-source projects are on GitHub. You'll mostly see development projects, such as PHP composer packages, Docker templates, boilerplates & templates, and more!
+My open-source projects are on GitHub. You'll mostly see development projects, such as PHP composer packages, Docker templates, package templates, desktop applications, code examples and more!
 
 > Keep an eye out for private repositories turning public, that usually shows that there is a newly released project! :rocket:
 
 These are some featured open-source projects I've made, take a look:
 
-<p>
-<a href="https://github.com/entwurfhaus/serverless-express-typescript-boilerplate ">
+<table border="0">
+ <tr>
+    <td><a href="https://github.com/entwurfhaus/serverless-express-typescript-boilerplate ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=serverless-express-typescript-boilerplate&theme=nord" />
-</a>
-</p>
-<p>
-<a href="https://github.com/entwurfhaus/vite-vanilla-ts-template">
+</a></td>
+    <td><a href="https://github.com/entwurfhaus/vite-vanilla-ts-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=vite-vanilla-ts-template&theme=nord" />
-</a>
-</p>
-<p>
-<a href="https://github.com/brifiction/laravel-boilerplate">
+</a></td>
+ </tr>
+ <tr>
+    <td><a href="https://github.com/brifiction/laravel-boilerplate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brifiction&show_owner=true&repo=laravel-boilerplate&theme=nord" />
-</a>
-</p>
+</a></td>
+    <td><a href="https://github.com/entwurfhaus/vite-vanilla-ts-module">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=vite-vanilla-ts-module&theme=nord" />
+</a></td>
+ </tr>
+   <tr>
+    <td><a href="https://github.com/entwurfhaus/docker-compose-templates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=docker-compose-templates&theme=nord" />
+</a></td>
+    <td></td>
+ </tr>
+</table>
 
 ## Demo projects
 
