@@ -5,7 +5,7 @@ My name is Brian Ng, and I am a Senior Software Engineer.
 </p>
 
 <p align="center">
-With these pursuits, I strongly yearn for a "code less, more fun" / "code less, do more" software development lifestyle, and an advocate of <b>Linus' Law</b>.
+I strongly yearn for a "code less, more fun" / "code less, do more" software development lifestyle, and an advocate of <b>Linus' Law</b>.
 </p>
 
 ## Social
