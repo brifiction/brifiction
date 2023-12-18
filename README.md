@@ -20,7 +20,8 @@ Below are the technologies (and cloud hosting services) that I work with:
 
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8892be?style=for-the-badge&logo=php&logoColor=white" />
-    <!-- <img alt=".Net" src="https://img.shields.io/badge/-.Net-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" /> -->
+  <img alt="RUST" src="https://img.shields.io/badge/-RUST-b7410e?style=for-the-badge&logo=rust&logoColor=white" />
+  <!-- <img alt=".Net" src="https://img.shields.io/badge/-.Net-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" /> -->
 </p>
 
 <p>
@@ -69,7 +70,7 @@ Below are the technologies (and cloud hosting services) that I work with:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-0ea4e9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-0ea4e9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 <p>
