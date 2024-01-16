@@ -47,6 +47,7 @@ Below are the technologies (and cloud hosting services) that I work with:
   
 <p>
 <img alt="Nx" src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" />
+<img alt="Turborepo" src="https://img.shields.io/badge/turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" />
 </p>
 
 <p>
