@@ -85,13 +85,22 @@ Below are the technologies (and cloud hosting services) that I work with:
 <img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-## Personal Projects
+## Projects
+
+### Personal
 
 Check out my main project that I'm working on, Entwurfhaus.
 
 The primary goal is to provide numerous open-source projects for developers.
 
 ![Website](https://img.shields.io/website?down_message=offline&label=Entwurfhaus&style=for-the-badge&up_message=online&url=https%3A%2F%2Fentwurfhaus.com)
+
+### Demonstration
+
+I have a couple of demo projects:
+
+1. <a href="https://thehat.brianngchongeu.com/" target="_blank"> The Hat</a> - Pick a name, out of the Hat.
+2. <a href="https://rnp.brianngchongeu.com/" target="_blank"> Random Number Picker</a> - Pick a random number, from 1 to 100 (max).
 
 ## GitHub
 
@@ -125,10 +134,3 @@ These are some featured open-source projects I've made, take a look:
     <td></td>
  </tr>
 </table>
-
-## Demo projects
-
-I have a couple of demo projects:
-
-1. <a href="https://thehat.brianngchongeu.com/" target="_blank"> The Hat</a> - Pick a name, out of the Hat.
-2. <a href="https://rnp.brianngchongeu.com/" target="_blank"> Random Number Picker</a> - Pick a random number, from 1 to 100 (max).
