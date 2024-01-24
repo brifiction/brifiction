@@ -35,6 +35,11 @@ Below are the technologies (and cloud hosting services) that I work with:
 </p>
 
 <p>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-b7410e?style=for-the-badge&logo=tauri&logoColor=white" />
+</p>
+
+<p>
   <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-000000?style=for-the-badge&logo=serverless&logoColor=fd5750" />
 </p>
     
