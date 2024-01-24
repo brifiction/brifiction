@@ -36,6 +36,7 @@ Below are the technologies (and cloud hosting services) that I work with:
 
 <p>
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=electron&logoColor=61DAFB" />
   <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-b7410e?style=for-the-badge&logo=tauri&logoColor=white" />
 </p>
 
