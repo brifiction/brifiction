@@ -41,6 +41,11 @@ Below are the technologies (and cloud hosting services) that I work with:
 </p>
 
 <p>
+  <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-45ba4b?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
+
+<p>
   <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-000000?style=for-the-badge&logo=serverless&logoColor=fd5750" />
 </p>
     
