@@ -106,13 +106,6 @@ The primary goal is to provide numerous open-source projects for developers.
 
 ![Website](https://img.shields.io/website?down_message=offline&label=Entwurfhaus&style=for-the-badge&up_message=online&url=https%3A%2F%2Fentwurfhaus.com)
 
-### Demonstration
-
-I have a couple of demo projects:
-
-1. <a href="https://thehat.brianngchongeu.com/" target="_blank"> The Hat</a> - Pick a name, out of the Hat.
-2. <a href="https://rnp.brianngchongeu.com/" target="_blank"> Random Number Picker</a> - Pick a random number, from 1 to 100 (max).
-
 ## GitHub
 
 My open-source projects are on GitHub. You'll mostly see development projects, such as PHP composer packages, Docker templates, package templates, desktop applications, code examples and more!
