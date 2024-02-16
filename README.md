@@ -1,11 +1,15 @@
 # Greetings! :wave:
 
 <p align="center">
-My name is Brian Ng, and I am a Senior Software Engineer. And I love the open-source community, we learn so much together & we grow together - as a strong advocate for <b>Linus' Law</b>, we create solutions faster.
+My name is Brian Ng, and I love the open-source community. We learn so much & grow together - as a <b>Linus' Law</b> advocate, we crush issues faster too.
 </p>
 
 <p align="center">
-I strongly yearn for a "code less, more fun" / "code less, do more" software development lifestyle. Don't be a slave to technology, master it!
+I strongly yearn for a "code less, more fun" / "code less, do more" software development lifestyle.
+</p>
+
+<p align="center">
+Don't be a slave to technology, master it!
 </p>
 
 ## Social
