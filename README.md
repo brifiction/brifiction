@@ -108,7 +108,7 @@ Check out my main project that I'm working on, Entwurfhaus.
 
 The primary goal is to provide numerous open-source projects for developers.
 
-![Website](https://img.shields.io/website?down_message=offline&label=Entwurfhaus&style=for-the-badge&up_message=online&url=https%3A%2F%2Fentwurfhaus.com)
+Link: https://entwurfhaus.com
 
 ## GitHub
 
