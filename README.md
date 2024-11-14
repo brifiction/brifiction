@@ -9,7 +9,7 @@ I strongly yearn for a "code less, more fun" / "code less, do more" software dev
 </p>
 
 <p align="center">
-Don't be a slave to technology, master it!
+And don't be a slave to technology, master it!
 </p>
 
 ## Social
@@ -99,16 +99,6 @@ Below are the technologies (and cloud hosting services) that I work with:
 <p>
 <img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
-
-## Projects
-
-### Personal
-
-Check out my main project that I'm working on, Entwurfhaus.
-
-The primary goal is to provide numerous open-source projects for developers.
-
-Link: https://entwurfhaus.com
 
 ## GitHub
 
