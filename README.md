@@ -110,8 +110,8 @@ These are some featured open-source projects I've made, take a look:
 
 <table border="0">
  <tr>
-    <td><a href="https://github.com/entwurfhaus/serverless-express-typescript-boilerplate ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=serverless-express-typescript-boilerplate&theme=nord" />
+    <td><a href="https://github.com/entwurfhaus/docker-compose-templates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=docker-compose-templates&theme=nord" />
 </a></td>
     <td><a href="https://github.com/entwurfhaus/vite-vanilla-ts-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=vite-vanilla-ts-template&theme=nord" />
@@ -124,11 +124,5 @@ These are some featured open-source projects I've made, take a look:
     <td><a href="https://github.com/entwurfhaus/vite-vanilla-ts-module">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=vite-vanilla-ts-module&theme=nord" />
 </a></td>
- </tr>
-   <tr>
-    <td><a href="https://github.com/entwurfhaus/docker-compose-templates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=docker-compose-templates&theme=nord" />
-</a></td>
-    <td></td>
  </tr>
 </table>
