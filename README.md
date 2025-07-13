@@ -9,7 +9,7 @@ I strongly yearn for a "code less, more fun" / "code less, do more" software dev
 </p>
 
 <p align="center">
-And don't be a slave to technology, master it!
+And do not allow technology to enslave you, master it!
 </p>
 
 ## Social
