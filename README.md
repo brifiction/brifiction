@@ -105,24 +105,3 @@ Below are the technologies (and cloud hosting services) that I work with:
 My open-source projects are on GitHub. You'll mostly see development projects, such as PHP composer packages, Docker templates, package templates, desktop applications, code examples and more!
 
 > Keep an eye out for private repositories turning public, that usually shows that there is a newly released project! :rocket:
-
-These are some featured open-source projects I've made, take a look:
-
-<table border="0">
- <tr>
-    <td><a href="https://github.com/entwurfhaus/docker-compose-templates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=docker-compose-templates&theme=nord" />
-</a></td>
-    <td><a href="https://github.com/entwurfhaus/vite-vanilla-ts-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=vite-vanilla-ts-template&theme=nord" />
-</a></td>
- </tr>
- <tr>
-    <td><a href="https://github.com/brifiction/laravel-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brifiction&show_owner=true&repo=laravel-boilerplate&theme=nord" />
-</a></td>
-    <td><a href="https://github.com/entwurfhaus/vite-vanilla-ts-module">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=entwurfhaus&show_owner=true&repo=vite-vanilla-ts-module&theme=nord" />
-</a></td>
- </tr>
-</table>
